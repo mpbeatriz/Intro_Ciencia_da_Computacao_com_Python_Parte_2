@@ -1,1 +1,2 @@
-# Intro_Ciencia_da_Computacao_com_Python_Parte_2
+# Introdução à Ciência da Computação com Python Parte 2
+## Exercícios do curso "Introdução à Ciência da Computação com Python Parte 2" oferecido pelo IME - USP via Coursera.
